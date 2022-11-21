@@ -12,7 +12,7 @@ fun main() {
         //instanceof랑 같은 역할: 객체타입을 확인하는 역할
 
     //2. 자료형 변환하는 방법
-    //2-1) .toString, .toFloat, ... : 기본타입 형변환
+    //2-1) .toString, .toFloat, to자료형... : 기본타입 형변환
 
     val num=256
     println(num::class.java.simpleName)//int 출력
