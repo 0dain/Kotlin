@@ -7,6 +7,7 @@ fun main() {
 
     if(gender=="여")
         println("여자입니다")
+
     //if문을 표현식으로 사용하고 싶으면 else문도 넣어라! 라는 오류가 뜸
 //    val result2=if(gender=="여") "여자입니다"
 
